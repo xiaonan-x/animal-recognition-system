@@ -56,7 +56,8 @@
 
 ## 📷 界面展示
 
-![系统界面截图](screenshot.png)
+<img width="1606" height="1234" alt="屏幕截图 2025-11-14 114324" src="https://github.com/user-attachments/assets/b3acebbf-6d46-4d8e-ac47-56f9b864d239" />
+
 *图：系统主界面（左侧特征选择区，右侧推理结果区）*
 
 ## 🔍 推理示例
@@ -88,7 +89,3 @@ animal-recognition-system/
 ## ✨ 致谢
 
 本项目基于经典人工智能教材中的动物识别问题开发，规则设计参考了《人工智能导论》中的产生式系统案例。
-
-## 📄 许可证
-
-[MIT](LICENSE) © 2023 Your Name
